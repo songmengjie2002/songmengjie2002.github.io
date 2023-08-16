@@ -10,7 +10,7 @@ redirect_from:
 
 I am Song Mengjie, a fourth year undergraduate estudent from [School of Engineering](https://gcxy.cug.edu.cn/).[China University Of Geosciences，Wuhan](https://www.cug.edu.cn/). My major is exploration technology and engineering (drilling engineering direction).
 
-You can find my CV here:[Song Mengjie's Curriculum Vitae](./assets/Curriculum_Vitae.pdf)
+You can find my CV here:[Song Mengjie's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 [Email](mailto:2950296254@qq.com) / [Github](https://github.com/songmengjie2002) /[Wechat](../images/wechat.jpg)
 
