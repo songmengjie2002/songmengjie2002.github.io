@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Song Mengjie, a fourth year undergraduate estudent from [School of Engineering](https://gcxy.cug.edu.cn/).[China University Of Geosciences，Wuhan](https://www.cug.edu.cn/). My major is exploration technology and engineering (drilling engineering direction).
+I am Song Mengjie, a fourth year undergraduate student from [School of Engineering](https://gcxy.cug.edu.cn/) [China University Of Geosciences Wuhan](https://www.cug.edu.cn/). My major is exploration technology and engineering (drilling engineering direction).
 
 You can find my CV here:[Song Mengjie's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
