@@ -10,7 +10,7 @@ locale                   : "China Hubei"
 title                    : "Song Mengjie / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Song Mengjie"
-description              : &description "A fourth year undergraduate student from China University of Geosciences (Wuhan)"
+description              : &description "A fourth year undergraduate student from China University of Geosciences Wuhan"
 url                      : https://songmengjie2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "songmengjie2002/songmengjie2002.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song Mengjie（宋梦洁）"
+  name             : "Song Mengjie"
   avatar           : "profile.png"
-  bio              : "China University of Geosciences (Wuhan)"
+  bio              : "China University of Geosciences Wuhan"
   location         : "China Hubei"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
